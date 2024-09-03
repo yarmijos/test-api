@@ -10,7 +10,7 @@ Flask==2.2.5
 2. Instalar las dependencias con pip install -r requirements.txt
 3. Dirigirse a la ruta de tu proyecto y ejecutar en el terminal python api-test.py
 
-# realizar pruebas en postman
+# Realiza pruebas en Postman
 1. En la barra url de postman coloca lo siguiente: http://127.0.0.1:5000/get-subarreglo
 2. En el header añade Content-Type: application/json
 3. En el body selecciona la opcion raw
