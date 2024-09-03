@@ -1,9 +1,14 @@
 # test-api
 
+# requeriments
+Python 3.7 o superior
+Django==3.2.12
+Flask==2.2.5
+
 # Inicia el proyecto
-1. git clone https://github.com/yarmijos/test-api.git
-2. pip install -r requirements.txt
-3. python api-test.py
+1. Clonar el repositorio con git clone https://github.com/yarmijos/test-api.git
+2. Instalar las dependencias con pip install -r requirements.txt
+3. Dirigirse a la ruta de tu proyecto y ejecutar en el terminal python api-test.py
 
 # realizar pruebas en postman
 1. En la barra url de postman coloca lo siguiente: http://127.0.0.1:5000/get-subarreglo
